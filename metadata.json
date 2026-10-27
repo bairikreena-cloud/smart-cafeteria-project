@@ -1,0 +1,6 @@
+{
+  "name": "Smart Cafeteria Pre-Order & Inventory Management System",
+  "description": "Production-grade college PBL web application for smart cafeteria pre-ordering, real-time kitchen tracking, atomic recipe-based ingredient inventory control, and role-based staff administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
